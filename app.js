@@ -1,2 +1,2 @@
 console.log("hello git");
-console.log("change");
+console.log("hello my friend");
